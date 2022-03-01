@@ -56,8 +56,6 @@ Mohan</center></td>
 <td>Tuesday</td>
 <td colspan="2"><center>FREE HOURS</center></td>
 <td colspan="2"><center>Engineering Design and
-12/2/21, 8:22 PM timetable/README.md at main · Vivekreddy8360/timetable
-https://github.com/Vivekreddy8360/timetable/blob/main/README.md 3/4
 modeling/19AI302/Sellakumar S</center></td></center>
 <td><center>LUNCH BREAK</center></td>
 <td colspan="2"<center>Engineering Mechanics and Product
